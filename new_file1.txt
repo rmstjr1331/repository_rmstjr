@@ -1,2 +1,6 @@
 Hello! My name is Geunseok
-Kumoh National Institute if Technology
+KIT(Kumoh National Institute of Technology)
+
+Computer Sciences
+C Programming
+Object-oriented programming
